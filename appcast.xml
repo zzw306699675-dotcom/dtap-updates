@@ -4,5 +4,14 @@
     <title>DTAP Updates</title>
     <description>DTAP release feed</description>
     <language>en</language>
+    <item>
+      <title>DTAP 0.1.0</title>
+      <pubDate>Sun, 18 Oct 2026 11:48:49 +0000</pubDate>
+      <sparkle:version>0.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>DTAP 0.1.0：Universal Binary（arm64 + x86_64），需要 macOS 13 或更高版本。</li><li>DTAP 0.1.0：首个正式版本。</li><li>管理 SSH 本地端口转发隧道，菜单栏一键启动、停止和重启，支持全部启动/全部停止</li><li>启动并在浏览器中打开：像书签一样一键打开隧道对应的地址</li><li>断线自动重连（退避重试），睡眠唤醒或换网络后自动恢复</li><li>断线、重连、失败时发送系统通知</li><li>配置一键导出/导入，隧道可添加备注，可设置随 DTAP 启动或开机启动</li><li>启动前检测端口占用，清理遗留的 ssh 进程</li><li>菜单栏图标显示整体状态（正常、处理中、有失败）</li><li>支持在线更新（Sparkle 2）</li></ul>]]></description>
+      <enclosure url="https://zzw306699675-dotcom.github.io/dtap-updates/releases/v0.1.0/DTAP-macos.zip" length="1795867" type="application/octet-stream" sparkle:edSignature="JmL8wO88RogheeWrDnvyAyhoXZYIvaRVp73Ykg6ePjnjlVs3vAMRcreilPHTvyIt3CEsVifT1CGQemqQaptiBw=="/>
+    </item>
   </channel>
 </rss>
